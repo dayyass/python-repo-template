@@ -1,1 +1,2 @@
-# python-repo-template
+### Python Repositories Template
+GitHub Template for Python Repositories.
